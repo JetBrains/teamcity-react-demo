@@ -3,7 +3,7 @@
 [![Build status][ci-badge]][ci-bt]
 [![Greenkeeper badge][gk-badge]][gk]
 
-This project was bootstrapped with [Create React App][cra].
+This project was bootstrapped with [Create React App][cra] and [Storybook][storybook].
 
 This is a demo project providing an [example][ci-project] of how to build a React app on TeamCity.
 
@@ -13,3 +13,4 @@ This is a demo project providing an [example][ci-project] of how to build a Reac
 [cra]: https://github.com/facebookincubator/create-react-app
 [gk-badge]: https://badges.greenkeeper.io/Hypnosphi/teamcity-react-demo.svg
 [gk]: https://greenkeeper.io/
+[storybook]: https://storybook.js.org/
