@@ -1,13 +1,15 @@
 ## TeamCity React demo
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/Hypnosphi/teamcity-react-demo.svg)](https://greenkeeper.io/)
-[![Build status][badge]][bt]
+[![Build status][ci-badge]][ci-bt]
+[![Greenkeeper badge][gk-badge]][gk]
 
 This project was bootstrapped with [Create React App][cra].
 
-This is a demo project providing an [example][project] of how to build a React app on TeamCity.
+This is a demo project providing an [example][ci-project] of how to build a React app on TeamCity.
 
-[badge]:  https://teamcity.jetbrains.com/app/rest/builds/buildType:TestDrive_ReactApp_Build/statusIcon.svg
-[bt]: https://teamcity.jetbrains.com/viewType.html?buildTypeId=TestDrive_ReactApp_Build
-[project]: https://teamcity.jetbrains.com/project.html?projectId=TestDrive_ReactApp&tab=projectOverview
+[ci-badge]:  https://teamcity.jetbrains.com/app/rest/builds/buildType:TestDrive_ReactApp_Build/statusIcon.svg
+[ci-bt]: https://teamcity.jetbrains.com/viewType.html?buildTypeId=TestDrive_ReactApp_Build
+[ci-project]: https://teamcity.jetbrains.com/project.html?projectId=TestDrive_ReactApp&tab=projectOverview
 [cra]: https://github.com/facebookincubator/create-react-app
+[gk-badge]: https://badges.greenkeeper.io/Hypnosphi/teamcity-react-demo.svg
+[gk]: https://greenkeeper.io/
