@@ -1,4 +1,6 @@
 ## TeamCity React demo
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Hypnosphi/teamcity-react-demo.svg)](https://greenkeeper.io/)
 [![Build status][badge]][bt]
 
 This project was bootstrapped with [Create React App][cra].
