@@ -2,6 +2,10 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+function neverUsed() {
+    return 'asd';
+}
+
 class App extends Component {
   render() {
     return (
