@@ -4,10 +4,10 @@
   "private": true,
   "dependencies": {
     "jest-teamcity-reporter": "^0.9.0",
-    "raf": "^3.4.0",
-    "react": "^16.3.2",
-    "react-dom": "^16.3.2",
-    "react-scripts": "1.1.4"
+    "raf": "^3.4.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -19,6 +19,6 @@
     "build-storybook": "build-storybook"
   },
   "devDependencies": {
-    "@storybook/react": "^3.4.3"
+    "@storybook/react": "^5.1.9"
   }
 }
