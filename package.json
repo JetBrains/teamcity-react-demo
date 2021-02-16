@@ -12,7 +12,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom --setupTestFrameworkScriptFile=raf/polyfill",
-    "test-ci": "yarn test --coverage --testResultsProcessor=jest-teamcity-reporter --watchAll=false",
+    "test-ci": "yarn test --coverage --testResultsProcessor=jest-teamcity --watchAll=false",
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
